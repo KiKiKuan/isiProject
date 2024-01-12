@@ -1,7 +1,7 @@
 {
 ///    "python.pythonPath": "C:\\Users\\blueb\\AppData\\Local\\Programs\\Python\\Python312\\",
 ///    "python.pythonPath": "C:\\Users\\KiKi\\AppData\\Local\\Programs\\Python\\Python312\\",
-///    "python.pythonPath": "C:\\Users\\Hon\\AppData\\Local\\Programs\\Python\\Python312\\",
+    "python.pythonPath": "C:\\Users\\Hon\\AppData\\Local\\Programs\\Python\\Python312\\",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true
 }
